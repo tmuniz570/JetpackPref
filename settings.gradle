@@ -1,0 +1,2 @@
+rootProject.name = "JetpackPref"
+include ':app'
